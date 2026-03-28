@@ -15,28 +15,20 @@
 
 ---
 
-## ✨ Features
+## - Features
 
-- 🔥 Switch between all 3 HypeSquad houses — **Bravery**, **Brilliance**, **Balance**
-- ➕ Add or ➖ Remove your HypeSquad badge instantly
-- 💾 Save your token locally for quick access
-- 👁️ Show/Hide token for privacy
-- 🖼️ Visual badge icons for easy selection
-- 🌙 Sleek dark mode UI
-
----
-
-## 📸 Preview
-
-<div align="center">
-<img src="img/preview.png" width="400" alt="App Preview"/>
-</div>
+-  Switch between all 3 HypeSquad houses — **Bravery**, **Brilliance**, **Balance**
+-  Add or ➖ Remove your HypeSquad badge instantly
+-  Save your token locally for quick access
+-  Show/Hide token for privacy
+-  Visual badge icons for easy selection
+-  Sleek dark mode UI
 
 ---
 
-## 🚀 Getting Started
+## - Getting Started
 
-### Requirements
+### - Requirements
 
 - Python 3.8+
 - pip
@@ -61,7 +53,7 @@ python main.py
 
 ---
 
-## 📦 Build as EXE
+## - Build as EXE
 
 To compile into a standalone `.exe`:
 
@@ -74,7 +66,7 @@ The output will be in the `dist/` folder.
 
 ---
 
-## 📁 Project Structure
+## - Project Structure
 
 ```
 HypeSquad-Manager/
@@ -87,14 +79,6 @@ HypeSquad-Manager/
 
 ---
 
-## ⚠️ Disclaimer
-
-> This tool uses your **Discord user token**.  
-> Using self-bots or automating user accounts may violate [Discord's Terms of Service](https://discord.com/terms).  
-> Use at your own risk.
-
----
-
-## 👤 Author
+## - Author
 
 Made by **Emperor Slay**
