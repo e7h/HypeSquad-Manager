@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="img/brilliance.png" width="80" alt="HypeSquad Logo"/>
 
 # HypeSquad Manager
 
