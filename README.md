@@ -15,7 +15,7 @@
 
 ---
 
-## - Features
+## $ Features
 
 -  Switch between all 3 HypeSquad houses — **Bravery**, **Brilliance**, **Balance**
 -  Add or ➖ Remove your HypeSquad badge instantly
@@ -26,9 +26,9 @@
 
 ---
 
-## - Getting Started
+## $ Getting Started
 
-### - Requirements
+###  Requirements
 
 - Python 3.8+
 - pip
@@ -53,7 +53,7 @@ python main.py
 
 ---
 
-## - Build as EXE
+## $ Build as EXE
 
 To compile into a standalone `.exe`:
 
@@ -66,7 +66,7 @@ The output will be in the `dist/` folder.
 
 ---
 
-## - Project Structure
+## $ Project Structure
 
 ```
 HypeSquad-Manager/
@@ -79,6 +79,6 @@ HypeSquad-Manager/
 
 ---
 
-## - Author
+## $ Author
 
 Made by **Emperor Slay**
